@@ -1,1 +1,1 @@
-April fool guys 🐸
+print("April fool guys 🐸")
